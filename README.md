@@ -24,3 +24,15 @@ Professional sales analytics dashboard analyzing **$2.5M in revenue** from 1000+
 - Revenue optimization recommendations
 
 ## 🚀 How to Run
+
+
+## 📁 Files
+- `simple_sales_analysis.csv` - Sales dataset (1000 records)
+- `sales_analysis.py` - Analysis script with business logic
+
+## 💼 Skills Demonstrated
+- Data analysis and processing
+- Business intelligence and KPI calculation
+- Sales performance optimization
+- Professional reporting and insights
+
